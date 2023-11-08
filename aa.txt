@@ -17,3 +17,5 @@ Author: Arun Dinesh
 8.Making the payment.
 
 9.Add the emoji.
+
+10.Adding the gif.
