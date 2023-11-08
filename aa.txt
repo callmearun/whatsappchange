@@ -1,0 +1,11 @@
+This is the whats app code
+
+Author: Arun Dinesh
+
+1.Open the chat.
+
+2.Open the message.
+
+3.Last seen visible or not.
+
+4.Status checking
