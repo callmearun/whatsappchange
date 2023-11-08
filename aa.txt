@@ -9,3 +9,7 @@ Author: Arun Dinesh
 3.Last seen visible or not.
 
 4.Status checking
+
+5. Making the call.
+
+7.Making the video call.
