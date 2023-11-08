@@ -13,3 +13,7 @@ Author: Arun Dinesh
 5. Making the call.
 
 7.Making the video call.
+
+8.Making the payment.
+
+9.Add the emoji.
